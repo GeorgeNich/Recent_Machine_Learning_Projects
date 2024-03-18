@@ -9,7 +9,7 @@ Welcome to the "Recent_Machine_Learning_Projects" repository! This repository co
 
 - **Description:** This project utilizes machine learning techniques to forecast the future price of the JUP cryptocurrency. By leveraging historical data on market cap, volume, and price from Orca and Uni, along with JUP-specific data on volume and market cap via Prophet, this algorithm aims to provide insights into potential price movements over the next two months.
   
-- **Repository File:** [cryptocurrency_price_prediction.ipynb](Recent_Machine_Learning_Projects/Cryptocurrency%20Price%20Prediction%20with%20Machine%20Learning/cryptocurrency_price_prediction.ipynb)
+- **Repository File:** [cryptocurrency_price_prediction.ipynb](https://github.com/GeorgeNich/Recent_Machine_Learning_Projects/blob/main/Cryptocurrency_Machinelearning_Price_Prediction_Algorithm/cryptocurrency_price_prediction.ipynb)
 
 - **Key Features:**
   - Data Collection: Historical data on market cap, volume, and price from Orca and Uni, as well as JUP-specific volume and market cap data.
